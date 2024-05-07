@@ -1,14 +1,15 @@
-# Building your layout from source
+Voyager layout
 
-Congratulations on taking the next step, and making use of your keyboard's open-source nature! There's so much power to unlock — this is going to be fun. :)
+My layout with macro's for Tmux and support for my Hammerspoon setup, focused on use with MacOS
 
-Here are some initial pointers to get you started:
+## Layer 0: Main
 
-- Use the documentation at [https://docs.qmk.fm/](https://docs.qmk.fm/) to set up your environment for building your firmware.
-- Build your layout against [https://github.com/zsa/qmk_firmware/](https://github.com/zsa/qmk_firmware/) which is our QMK fork (instead of qmk/qmk_firmware). This is what Oryx (the graphical configurator) uses, so it's guaranteed to work.
-- Create a folder with a simple name (no spaces!) for your layout inside the qmk_firmware/keyboards/keymaps/ folder.
-- Copy the contents of the \*\_source folder (in the .zip you downloaded from Oryx) into this folder.
-- Make sure you've set up your environment per the [QMK docs](https://docs.qmk.fm/#/newbs_getting_started?id=set-up-your-environment) so compilation would actually work.
-- From your shell, make sure your working directory is qmk*firmware, then enter the command `make :_layout_`, substituting the name of the folder you created for "_layout_".
+![Layer 0 Main ](https://github.com/Mvzundert/voyager-layout/assets/6066795/0a59074b-1aca-4eff-b913-eafbfe7d351a)
 
-Good luck on your journey! And remember, if you get stuck, you can always get back to your [original layout](https://configure.zsa.io/voyager/layouts/alr9v/WBGjl/0) from Oryx.
+## Layer 1: Sym + Num
+
+![Layer 1 Sym + Num](https://github.com/Mvzundert/voyager-layout/assets/6066795/5a018c14-3fef-4479-881d-1eade804d314)
+
+## Layer 2: Brd + Sys2
+
+![layer 4 Brd + Sys2](https://github.com/Mvzundert/voyager-layout/assets/6066795/448099be-13ed-407e-8f11-6fbaf8f75b93)
