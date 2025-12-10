@@ -1,6 +1,8 @@
 Voyager layout
 
-My layout with macro's for Tmux and support for my Hammerspoon setup, focused on use with MacOS
+My layout with macro's for Tmux and support for my Hammerspoon setup, focused on use with MacOS and Archlinux (with Hyprland)
+
+[Link to config](https://configure.zsa.io/voyager/layouts/alr9v/latest/0)
 
 ## Layer 0: Main
 
