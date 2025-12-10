@@ -12,4 +12,4 @@ My layout with macro's for Tmux and support for my Hammerspoon setup, focused on
 
 ## Layer 2: Brd + Sys2
 
-![layer 4 Brd + Sys2](https://github.com/user-attachments/assets/d227ec7b-a6e2-46de-bc0c-aa8a8c608fe6)
+![layer 4 Brd + Sys2](https://github.com/user-attachments/assets/de6cfe21-5de6-42fe-8f03-651acc80605b)
